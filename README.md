@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Pursuing Masters Of Computer Application(MCA) from National Institute Of Technology Karnataka. 
+- 🔭 I have done Masters Of Computer Application(MCA) from National Institute Of Technology Karnataka. 
 - 🌱 I’m currently learning Java,Advanced SQL,Advanced Data Struture ,Machine Learning Algorithms. 
 - 💬 Ask me about C,C++,Web Development ,Data Structure ,Database ,SQL.
 - 📫 How to reach me:- Email:patidar.rahul00@gmail.com .  LinkedIn Profile:-https://www.linkedin.com/in/rahul-kalsangra-a372297a/ 
